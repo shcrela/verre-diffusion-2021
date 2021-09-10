@@ -1,0 +1,7 @@
+jupyter
+rampy
+numpy
+scipy
+pandas
+matplotlib
+xlrd
